@@ -1,4 +1,8 @@
-# VELOC uploaded mesh review
+# VELOC assets and reconstruction reviews
+
+Latest geometry work: [version 3 — files and visual comparison](veloc-body-v3/README.md). This remains an approximate reconstruction. [Version 2](veloc-body-v2/README.md) is preserved.
+
+## Original material-only mesh review
 
 This folder contains a material-refined export of the uploaded VELOC GLB, a Blender preview render, and a side-by-side comparison against the silver-car reference.
 
