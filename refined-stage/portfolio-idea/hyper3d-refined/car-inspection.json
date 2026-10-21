@@ -1,0 +1,13 @@
+{
+  "output_vertices": 21962,
+  "output_faces": 36904,
+  "material_faces": {
+    "Silver automotive paint": 19889,
+    "Dark smoked glazing": 1736,
+    "Tire rubber": 5196,
+    "Machined graphite rims": 5935,
+    "Carbon lower trim": 4148
+  },
+  "geometry_modified": false,
+  "material_regions": "Approximate spatial masks; source provides no authored component separation."
+}

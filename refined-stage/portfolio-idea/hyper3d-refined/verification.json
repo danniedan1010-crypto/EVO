@@ -1,0 +1,16 @@
+{
+  "car": {
+    "blend_reopened_and_rendered": true,
+    "glb_reimported": true,
+    "mesh_objects": 1,
+    "materials": 5,
+    "exact_reference_match": false
+  },
+  "sneaker": {
+    "blend_reopened_and_rendered": true,
+    "glb_reimported": true,
+    "mesh_objects": 1,
+    "materials": 3,
+    "exact_reference_match": false
+  }
+}

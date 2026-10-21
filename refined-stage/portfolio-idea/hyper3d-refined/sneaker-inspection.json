@@ -1,0 +1,11 @@
+{
+  "output_vertices": 19093,
+  "output_faces": 34932,
+  "material_faces": {
+    "Ivory technical textile": 11811,
+    "Cobalt outsole and heel": 16888,
+    "Cream sculpted midsole": 6233
+  },
+  "geometry_modified": false,
+  "material_regions": "Approximate spatial masks; source provides no authored component separation."
+}
