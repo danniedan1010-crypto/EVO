@@ -1,0 +1,20 @@
+{
+  "geometry_changed": false,
+  "source_mesh_preserved": true,
+  "source_uv_preserved": true,
+  "normalized_length_m": 0.3,
+  "changes": [
+    "Cobalt blue color tuning",
+    "Warmer ivory color tuning",
+    "Map-based roughness separation",
+    "Nonmetallic shoe materials",
+    "Normal strength reduced to 0.65"
+  ],
+  "limitations": [
+    "Original silhouette, shoe design, laces and source texture artifacts remain",
+    "Lime heel accent and precise panel layout of image reference are not reconstructed",
+    "No exact-reference-match claim"
+  ],
+  "source_vertices": 17236,
+  "source_triangles": 15801
+}

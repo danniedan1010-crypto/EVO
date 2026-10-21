@@ -1,0 +1,24 @@
+{
+  "blend_reopens_and_renders": true,
+  "glb_reimports": true,
+  "mesh_objects": 1,
+  "vertices": 17328,
+  "triangles": 15801,
+  "length_m": 0.30000001192092896,
+  "base_on_floor_m": -7.450580596923828e-09,
+  "images": [
+    {
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "width": 2048,
+      "height": 2048
+    }
+  ],
+  "exact_reference_match": false
+}
